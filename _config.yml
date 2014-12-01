@@ -7,7 +7,7 @@ description: "A blog about crafting my mandarin education post graduation."
 # Your name. Will show in your footer + sidebar 
 author: "David Su"
 
-url: "http://davidtingsu.github.io"
+url: "http://davidtingsu.github.io/"
 baseurl: ""
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
