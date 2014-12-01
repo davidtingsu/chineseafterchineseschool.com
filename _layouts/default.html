@@ -28,6 +28,7 @@
           <h1>Hi, I'm {{ site.author }}.</h1>
           <p>{{ site.author-bio }}</p>
       </div>
+      {% if site.twitter || site.github || site.dribble || site.instagram || site.dribble %}
       <nav>
         <h6>Follow me on</h6>
         <ul>
@@ -45,6 +46,7 @@
           {% endif %}
         </ul>
       </nav>
+      {% endif %}
     </div>
 
 
