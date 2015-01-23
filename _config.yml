@@ -40,3 +40,12 @@ paginate_path: "/page/:num"
 sass:
   sass_dir: _scss
   style: :compressed
+
+# http://stackoverflow.com/a/23555679
+defaults:
+  -
+    scope:
+      path: ""      # empty string for all files
+      type: "post"   # limit to posts
+    values:
+      is_post: true # automatically set is_post=true for all posts
