@@ -2,13 +2,13 @@
 layout: post
 title:  "October/November/December 2015 Recap. HSK retake!"
 ---
-This is an overdue post for the month of October 2015 that was sitting on the stove just simmering for a long while and now finally served!
+This is an overdue post for the month of October 2015 that was sitting on the stove just simmering for a long while and is now finally served!
 
 ## October Goal Review
 I set certain milestones to reach in my [October Goals]({% post_url 2015-09-18-ramping-up-for-hsk-5 %}#goal-revisions)
 
-1. Review all 2600 words on memrise.
-![2015 HSK Registration Information](/assets/img/table-october-1-to-november-22.png)
+1. **Incomplete** Review all 2600 words on memrise.
+![Review up to 2463 of 2600 words in November](/assets/img/table-october-1-to-november-22.png)
 
 2. **Complete** HSK 5 Mock Test 2 by 9/27
 
@@ -17,14 +17,19 @@ I set certain milestones to reach in my [October Goals]({% post_url 2015-09-18-r
 
     **Comments**  Completed on 10/1/2015
 4. **Incomplete** HSK 5 Mock Test 4 by 10/4
+
     **Comments**  Did not take.
+
 5. **Incomplete**  HSK 5 Mock Test 5 by 10/11
 
     **Comments**  Did not take.
 6. **Work In Progress**  Keep with Slow Chinese just to get more chinese reading practice.
-7. Review all the [B2 grammar points](http://resources.allsetlearning.com/chinese/grammar/B2_grammar_points). Go through [Memrise deck](http://www.memrise.com/course/129168/chinese-grammar-wiki-b2/). I chose B2 Grammar points based off of this [Common European Framework of Reference for Languages table](https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi#Estimates_of_equivalent_CEFR_levels)
 
-    **Comments** Learned 4 words
+    **Comments**  Reviewed up to article 76.
+
+7. **Incomplete** Review all the [B2 grammar points](http://resources.allsetlearning.com/chinese/grammar/B2_grammar_points). Go through [Memrise deck](http://www.memrise.com/course/129168/chinese-grammar-wiki-b2/). I chose B2 Grammar points based off of this [Common European Framework of Reference for Languages table](https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi#Estimates_of_equivalent_CEFR_levels)
+
+    **Comments** Learned 4 of 174 sets.
 
 ### HSK Exam
 ![SFSU Campus](/assets/img/SFSU_Campus.jpg)
@@ -46,7 +51,10 @@ It’s invigorating to see the repolish of the [beta italki website](https://bet
 
 ![SFSU Campus](/assets/img/italki-landing.png)
 ![SFSU Campus](/assets/img/italki-beta-after-login.png)
+_New website: Landing page after login_
+
 ![SFSU Campus](/assets/img/italki-old-after-login.png)
+_Old website: Landing page after login_
 
 - [Italki Beta Intro](http://support.italki.com/hc/en-us/articles/212863237-What-is-the-italki-2015-Beta-Site-)
 - [Feature Parities](http://support.italki.com/hc/en-us/articles/212248958-What-features-on-italki-2015-beta-site-are-not-working-yet-)
@@ -54,11 +62,11 @@ It’s invigorating to see the repolish of the [beta italki website](https://bet
 
 ## Chinese Hacks November Writing Challenge
 I wanted to jumpstart my writing again and my italki journal was suffering from the winter cold, so 
-I was attracted to the idea of being publically accountable for my studies and I signed up for the [Novembe Writing Challenge](http://challenges.hackingchinese.com/challenges/23-writing-challenge-november-2015). Alas, I fell short of my commitment of 4 hourswith an astonishingly low zero hours. If you’re looking for other chinese challenges, you might also want to consider the [Italkig Language Challenges](http://www.italki.com/languagechallenge).
+I was attracted to the idea of being publically accountable for my studies and I signed up for the [November Writing Challenge](http://challenges.hackingchinese.com/challenges/23-writing-challenge-november-2015). Alas, I fell short of my commitment of 4 hours with zero hours. If you’re looking for other chinese challenges, you might also want to consider the [Italki Language Challenges](http://www.italki.com/languagechallenge).
 
 ## Hacking Chinese: A Practical Guide to Learning Mandarin
 
-I haven’t had a chance to check out this study strategies course that I received via email on 12/15/2015, but I would imagine it might be useful for people who are self-studying and are not currently taking a university course.
+I haven’t had a chance to check out this study strategies course that I received via email on 12/15/2015, but I would imagine it might be useful for people who are self-studying and are not currently doing formal training. Priced at $97 for a limited time and a 30 day money-back guarantee.
 
 [Hacking Chinese: A Practical Guide to Learning Mandarin](http://www.hackingchinese.com/about/practical-guide-to-learning-mandarin/)
 
@@ -75,10 +83,12 @@ and their [iphone app is still awaiting approval](http://forum.chinesepod.com/t/
 
 ## Pleco Screen Reader (Included with Pleco Dictionary)
 
-The pleco screen reader does work out of the box with the pleco app, but after some usage, I decided in favor of Hanping Popup. Yes it does appear to work fine on WeChat and although I do prefer the pleco dictionary over the hanping dictionary lite, the screen reader turns the “plain-textifies” the app so that it just looks like text in a word document and makes it appear unappealing. Also, I have not found a way to undo the screen read operation. However, I might still keep the screen reader app around because it does make fairly easy to jump from phrases to phrases without needing to move your finger around the screen for hanping popup.
-
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/plecosoft/posts/10152843779115728" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/plecosoft/posts/10152843779115728"><p>Android 3.2.13 update with Screen Reader + Screen OCR + PDF support (in document reader and still OCR) now in public...</p>Posted by <a href="https://www.facebook.com/plecosoft/">Pleco Software</a> on&nbsp;<a href="https://www.facebook.com/plecosoft/posts/10152843779115728">Wednesday, July 15, 2015</a></blockquote></div></div>
 
+![Pleco screen reader in zhihu 知呼 app](/assets/img/pleco-screen-reader-in-zhihu.gif)
+_You can dock the screen reader to the notification screen. Pressing the stacked papers icon converts the screen into plain text. To exit out of plain text mode, you can scroll down the page in your app to redraw the page or alternatively long press and click ‘Send to Pleco Screen Reader’ (where you can also read the text) and then on the Galaxy S6 I press the Recent Apps buton and return to my application._
+
+The pleco screen reader does work out of the box with the pleco app, but after some usage, I decided in favor of Hanping Popup. Yes it does appear to work fine on WeChat and although I do prefer the pleco dictionary over the hanping dictionary, the screen reader “plain-textifies” the app so that to look like text in a word document. Also, I have not found a way to undo the screen read operation to transform from the plain text view back to the original look. However, I might still keep the screen reader app around because it does make fairly easy to jump from phrases to phrases without needing to move your finger around the screen for hanping popup.
 
 ## Hanping Popup ($9.99)
 
@@ -93,17 +103,19 @@ After discovering
 This is the only popup dictionary I have seen and only supports android. The green/white popup cursor about as large as [facebook messenger chat heads](https://www.facebook.com/help/android-app/101495056700254?rdrhc). You can toggle the cursor by toggling the notifications and pressing the toggle button to hide/show the cursor.
 
 ![Toggle Hanping](/assets/img/toggle-hanping.gif)
-_Toggle the visibility of the hanping popup cursor by from the notifications screen or directly from the Hanping popup app._
+_Toggle the visibility of the hanping popup cursor from the notifications screen or directly from the Hanping Popup app._
 
 #### Cons 
  
 Regarding cons, I encountered incorrect character recognition before, but very rarely. Since it uses hanping dictionary and I only have the lite version installed on my phone, when I open the popup to see a more detailed information about the character, there are only english translations. A workaround is to click the copy button on the popup and paste the definition into pleco.
  
+
+### Photos
 ![Hanping Chinese Dictionary](/assets/img/hanping-chinese-dictionary.png)
-_Must download Hanping Chinese Dictionary in addition to the popup application. Can upgrade to paid dictionary._
+_Must download [Hanping Chinese Dictionary](https://play.google.com/store/apps/details?id=com.embermitre.hanping.app.lite) in addition to the popup application. Can upgrade to paid dictionary._
 
 ![Hanping OCR Error](/assets/img/hanping-chinese-error.png)
-_Hanping OCR error._
+_Hanping OCR error. Should be 货 instead of 乡._
 
 ![Hanping Lite Limited Definition](/assets/img/hanping-lite-wo-dfn.png)
 _Hanping Lite limited definition_
@@ -136,4 +148,4 @@ Overall, although I have not been as rigorous about studying, I am excited about
 
 In order to still get exposure to chinese, I also have watched movies on youku, some of which have chinese and english subtitles, and I have also completed the idol drama  [My Best Ex-Boyfriend - 最佳前男友](https://www.viki.com/tv/28818c-my-best-ex-boyfriend).
 
-I will resume completing the last 150 or so words in the HSK list and will be deciding on a date for the HSK retake soon.
+I will resume completing the last 140 words in the HSK 5 list and will be deciding on a date for the HSK retake soon.
