@@ -4,7 +4,7 @@
   <id>http://davidtingsu.github.io/</id>
   <link href="http://davidtingsu.github.io/" />
   <link href="http://davidtingsu.github.io//atom.xml" rel="self" />
-  <updated>2016-01-02T21:03:55-08:00</updated>
+  <updated>2016-01-02T21:07:06-08:00</updated>
   <rights>Copyright 2014, David Su</rights>
   <author>
     <name>David Su</name>
@@ -106,14 +106,15 @@ and their &lt;a href=&quot;http://forum.chinesepod.com/t/new-ios-app-submitted-t
 &lt;h1 id=&quot;shopping&quot;&gt;Shopping&lt;/h1&gt;
 
 &lt;h2 id=&quot;pleco-screen-reader-included-with-pleco-dictionary&quot;&gt;Pleco Screen Reader (Included with Pleco Dictionary)&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/img/pleco-screen-reader-in-zhihu.gif&quot; alt=&quot;Pleco screen reader in zhihu 知呼 app&quot; /&gt;
-&lt;em&gt;You can dock the screen reader to the notification screen. Pressing the stacked papers icon converts the screen into plain text. To exit out of plain text mode, you can scroll down the page in your app to redraw the page or alternatively long press and click ‘Send to Pleco Screen Reader’ (where you can also read the text) and then on the Galaxy S6 I press the Recent Apps buton and return to my application.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The pleco screen reader does work out of the box with the pleco app, but after some usage, I decided in favor of Hanping Popup. Yes it does appear to work fine on WeChat and although I do prefer the pleco dictionary over the hanping dictionary, the screen reader “plain-textifies” the app so that to look like text in a word document. Also, I have not found a way to undo the screen read operation to transform from the plain text view back to the original look. However, I might still keep the screen reader app around because it does make fairly easy to jump from phrases to phrases without needing to move your finger around the screen for hanping popup.&lt;/p&gt;
 
 &lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = &quot;//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3&quot;;  fjs.parentNode.insertBefore(js, fjs);}(document, &#39;script&#39;, &#39;facebook-jssdk&#39;));&lt;/script&gt;
 &lt;div class=&quot;fb-post&quot; data-href=&quot;https://www.facebook.com/plecosoft/posts/10152843779115728&quot; data-width=&quot;500&quot;&gt;&lt;div class=&quot;fb-xfbml-parse-ignore&quot;&gt;&lt;blockquote cite=&quot;https://www.facebook.com/plecosoft/posts/10152843779115728&quot;&gt;&lt;p&gt;Android 3.2.13 update with Screen Reader + Screen OCR + PDF support (in document reader and still OCR) now in public...&lt;/p&gt;Posted by &lt;a href=&quot;https://www.facebook.com/plecosoft/&quot;&gt;Pleco Software&lt;/a&gt; on&amp;nbsp;&lt;a href=&quot;https://www.facebook.com/plecosoft/posts/10152843779115728&quot;&gt;Wednesday, July 15, 2015&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/pleco-screen-reader-in-zhihu.gif&quot; alt=&quot;Pleco screen reader in zhihu 知呼 app&quot; /&gt;
+&lt;em&gt;You can dock the screen reader to the notification screen. Pressing the stacked papers icon converts the screen into plain text. To exit out of plain text mode, you can scroll down the page in your app to redraw the page or alternatively long press and click ‘Send to Pleco Screen Reader’ (where you can also read the text) and then on the Galaxy S6 I press the Recent Apps buton and return to my application.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The pleco screen reader does work out of the box with the pleco app, but after some usage, I decided in favor of Hanping Popup. Yes it does appear to work fine on WeChat and although I do prefer the pleco dictionary over the hanping dictionary, the screen reader “plain-textifies” the app so that to look like text in a word document. Also, I have not found a way to undo the screen read operation to transform from the plain text view back to the original look. However, I might still keep the screen reader app around because it does make fairly easy to jump from phrases to phrases without needing to move your finger around the screen for hanping popup.&lt;/p&gt;
 
 &lt;h2 id=&quot;hanping-popup-999&quot;&gt;Hanping Popup ($9.99)&lt;/h2&gt;
 
